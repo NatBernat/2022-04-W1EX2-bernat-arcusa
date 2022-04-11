@@ -1,0 +1,25 @@
+{
+  "name": "2022-04-w2ex2-bernat-arcusa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass-launch": "sass sass:css",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatBernat/2022-04-W2EX2-bernat-arcusa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatBernat/2022-04-W2EX2-bernat-arcusa/issues"
+  },
+  "homepage": "https://github.com/NatBernat/2022-04-W2EX2-bernat-arcusa#readme",
+  "devDependencies": {
+    "husky": "^7.0.0",
+    "sass": "^1.50.0"
+  }
+}
